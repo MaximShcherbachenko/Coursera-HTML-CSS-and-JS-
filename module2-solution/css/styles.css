@@ -37,6 +37,10 @@ p{
   height: 110px;
 }
 
+p::-webkit-scrollbar {
+  display: none;
+}
+
 #d1 {
   background-color: #237C6C;
   color: #F0F0F8;
